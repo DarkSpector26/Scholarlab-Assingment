@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3776434f8d013a4aa3b411c67355bfc, type: 3}
+  m_Name: Butterfly
+  m_EditorClassIdentifier: 
+  animalName: Butterfly
+  AnimalDescription: Butterflies are insects in the macrolepidopteran clade Rhopalocera
+    from the order Lepidoptera, which also includes moths. Adult butterflies have
+    large, often brightly coloured wings, and conspicuous, fluttering flight.
+  flyingCategory: 0
+  insectCategory: 0
+  dietCategory: 1
+  socialCategory: 1
+  reproductionCategory: 0
